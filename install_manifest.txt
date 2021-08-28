@@ -1,0 +1,10 @@
+/usr/local/lib/libfir.1.6.0.dylib
+/usr/local/lib/libfir.1.dylib
+/usr/local/lib/libfir.dylib
+/usr/local/include/Fir1fixed.h
+/usr/local/include/Fir1.h
+/usr/local/lib/libfir_static.a
+/usr/local/include/Fir1fixed.h
+/usr/local/include/Fir1.h
+/usr/local/lib/cmake/fir/fir-config.cmake
+/usr/local/lib/cmake/fir/fir-config-relwithdebinfo.cmake
